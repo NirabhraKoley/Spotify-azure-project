@@ -1,0 +1,9 @@
+{
+	"name": "ad-azureprojectnirabhra",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "38ebddfc-86d2-457b-9bbd-ba407d635a48",
+		"tenantId": "7d3aadd7-d94e-47cb-8cbe-d89c022cf085"
+	}
+}
